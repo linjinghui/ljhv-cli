@@ -1,7 +1,7 @@
 {
-  "name": "ljhv-cli",
+  "name": "lv-cli",
   "version": "1.0.3",
-  "description": "ljhv-cli 项目脚手架",
+  "description": "lv-cli 项目脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "author": "'linjinghui' <'852530363@qq.com'>",
   "license": "ISC",
   "bin": {
-    "ljhv-cli": "bin/ljhv-cli"
+    "lv-cli": "bin/lv-cli"
   },
   "dependencies": {
     "chalk": "^2.4.2",
